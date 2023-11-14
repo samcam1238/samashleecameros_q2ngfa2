@@ -1,0 +1,22 @@
+.body 
+{
+    text-align: center;
+    align-items: center;    
+    margin-bottom: 50px;
+    height: 100vh;
+    width: 97vw;
+    background-image: url(img.jpg);
+}
+
+.body a
+{
+    color: rgb(0, 0, 0);
+}
+
+.footer
+{
+    width: 97vw;
+    height: 5vh;
+    padding: 15px;
+    background-color: rgb(126, 126, 126)
+}
